@@ -1,0 +1,12 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Zombix",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Zombi",
+  "start_url": "/",
+  "theme_color": "#fe0000",
+  "description": "Это не самая крутая игра про зомби но я буду ее улучшать"
+}
